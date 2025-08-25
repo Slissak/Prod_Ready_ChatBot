@@ -1,0 +1,4 @@
+pypdf
+pinecone
+pinecone-datasets
+langchain-community

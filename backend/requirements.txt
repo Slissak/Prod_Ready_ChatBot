@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langgraph
+langchain-openai
+pinecone
+SQLAlchemy
+psycopg2-binary
+python-dotenv
+tiktoken
+
